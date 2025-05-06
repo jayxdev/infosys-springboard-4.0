@@ -1,0 +1,19 @@
+{
+  "name": "nurse-app",
+  "version": "1.0.0",
+  "description": "Voice patient call system nurse application",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+   "@react-navigation/native": "^7.1.5",
+   "@react-navigation/stack": "^7.2.9",
+   "axios": "^1.8.4"
+  },
+  "devDependencies": {
+   "@react-native-community/cli": "latest"
+  }
+}
